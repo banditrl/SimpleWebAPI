@@ -1,0 +1,22 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": true,
+    "anonymousAuthentication": true,
+    "iis": {
+      "applicationUrl": "http://localhost/SimpleWebAPI",
+      "sslPort": 0
+    },
+    "iisExpress": {
+      "applicationUrl": "https://localhost:44307/",
+      "sslPort": 44307
+    }
+  },
+  "profiles": {
+    "SimpleWebAPI": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "https://localhost:44307/",
+      "applicationUrl": "https://localhost:44321"
+    }
+  }
+}
