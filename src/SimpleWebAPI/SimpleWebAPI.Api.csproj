@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>d602c903-23dc-4cb4-9994-daec8fb42d7b</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.9" />
+    <PackageReference Include="SimpleInjector" Version="5.2.0" />
+    <PackageReference Include="SimpleInjector.Integration.AspNetCore.Mvc.Core" Version="5.2.0" />
+    <PackageReference Include="SimpleInjector.Integration.ServiceCollection" Version="5.2.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+	<ProjectReference Include="..\SimpleWebAPI.Domain\SimpleWebAPI.Domain.csproj" />
+	<ProjectReference Include="..\SimpleWebAPI.Infrastructure.IoC\SimpleWebAPI.Infrastructure.IoC.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="..\.dockerignore" Link="Presentation\.dockerignore" />
+  </ItemGroup>
+
+
+</Project>

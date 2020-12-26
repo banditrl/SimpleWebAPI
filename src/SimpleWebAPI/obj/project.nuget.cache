@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pZzmxDnuZvKQemeTbcED8FkFurLC75L8SAOd3eSogQgpEvGFABmhS0HCA4roJxNmhHrcwmSLDBoCnRFdSyMkQg==",
+  "dgSpecHash": "EkVDETD3mq6wQYOM2DzZ15effXvSlNG4f+0DswUkFQcw1TaAT3//fyco4EAYwIvxiQMxpQzyA1nkRfh3REhQFw==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\SimpleWebAP\\SimpleWebAPI\\src\\SimpleWebAPI\\SimpleWebAPI.csproj",
+  "projectFilePath": "C:\\Projects\\SimpleWebAP\\SimpleWebAPI\\src\\SimpleWebAPI\\SimpleWebAPI.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.1.0\\microsoft.aspnetcore.authentication.abstractions.2.1.0.nupkg.sha512",
     "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.1.0\\microsoft.aspnetcore.authentication.core.2.1.0.nupkg.sha512",

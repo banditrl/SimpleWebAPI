@@ -1,0 +1,12 @@
+C:\Projects\SimpleWebAP\SimpleWebAPI\src\SimpleWebAPI.Infrastructure.IoC\bin\Debug\netcoreapp3.1\SimpleWebAPI.Domain.dll
+C:\Projects\SimpleWebAP\SimpleWebAPI\src\SimpleWebAPI.Infrastructure.IoC\obj\Debug\netcoreapp3.1\SimpleWebAPI.Infrastructure.IoC.AssemblyInfoInputs.cache
+C:\Projects\SimpleWebAP\SimpleWebAPI\src\SimpleWebAPI.Infrastructure.IoC\obj\Debug\netcoreapp3.1\SimpleWebAPI.Infrastructure.IoC.AssemblyInfo.cs
+C:\Projects\SimpleWebAP\SimpleWebAPI\src\SimpleWebAPI.Infrastructure.IoC\obj\Debug\netcoreapp3.1\SimpleWebAPI.Infrastructure.IoC.csproj.CoreCompileInputs.cache
+C:\Projects\SimpleWebAP\SimpleWebAPI\src\SimpleWebAPI.Infrastructure.IoC\obj\Debug\netcoreapp3.1\SimpleWebAPI.Infrastructure.IoC.csprojAssemblyReference.cache
+C:\Projects\SimpleWebAP\SimpleWebAPI\src\SimpleWebAPI.Infrastructure.IoC\bin\Debug\netcoreapp3.1\SimpleWebAPI.Infrastructure.IoC.deps.json
+C:\Projects\SimpleWebAP\SimpleWebAPI\src\SimpleWebAPI.Infrastructure.IoC\bin\Debug\netcoreapp3.1\SimpleWebAPI.Infrastructure.IoC.dll
+C:\Projects\SimpleWebAP\SimpleWebAPI\src\SimpleWebAPI.Infrastructure.IoC\bin\Debug\netcoreapp3.1\SimpleWebAPI.Infrastructure.IoC.pdb
+C:\Projects\SimpleWebAP\SimpleWebAPI\src\SimpleWebAPI.Infrastructure.IoC\bin\Debug\netcoreapp3.1\SimpleWebAPI.Domain.pdb
+C:\Projects\SimpleWebAP\SimpleWebAPI\src\SimpleWebAPI.Infrastructure.IoC\obj\Debug\netcoreapp3.1\SimpleWebAPI.Infrastructure.IoC.csproj.CopyComplete
+C:\Projects\SimpleWebAP\SimpleWebAPI\src\SimpleWebAPI.Infrastructure.IoC\obj\Debug\netcoreapp3.1\SimpleWebAPI.Infrastructure.IoC.dll
+C:\Projects\SimpleWebAP\SimpleWebAPI\src\SimpleWebAPI.Infrastructure.IoC\obj\Debug\netcoreapp3.1\SimpleWebAPI.Infrastructure.IoC.pdb

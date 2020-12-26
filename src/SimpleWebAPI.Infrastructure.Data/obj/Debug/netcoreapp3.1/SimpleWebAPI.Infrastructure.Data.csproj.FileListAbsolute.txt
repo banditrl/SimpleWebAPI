@@ -1,0 +1,4 @@
+C:\Projects\SimpleWebAP\SimpleWebAPI\src\SimpleWebAPI.Infrastructure.Data\obj\Debug\netcoreapp3.1\SimpleWebAPI.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Projects\SimpleWebAP\SimpleWebAPI\src\SimpleWebAPI.Infrastructure.Data\obj\Debug\netcoreapp3.1\SimpleWebAPI.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Projects\SimpleWebAP\SimpleWebAPI\src\SimpleWebAPI.Infrastructure.Data\obj\Debug\netcoreapp3.1\SimpleWebAPI.Infrastructure.Data.AssemblyInfo.cs
+C:\Projects\SimpleWebAP\SimpleWebAPI\src\SimpleWebAPI.Infrastructure.Data\obj\Debug\netcoreapp3.1\SimpleWebAPI.Infrastructure.Data.csproj.CoreCompileInputs.cache

@@ -1189,6 +1189,30 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "SimpleWebAPI.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/SimpleWebAPI.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SimpleWebAPI.Domain.dll": {}
+        }
+      },
+      "SimpleWebAPI.Infrastructure.IoC/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "SimpleInjector": "5.2.0",
+          "SimpleWebAPI.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SimpleWebAPI.Infrastructure.IoC.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SimpleWebAPI.Infrastructure.IoC.dll": {}
+        }
       }
     }
   },
@@ -4233,6 +4257,16 @@
         "system.xml.xdocument.4.0.11.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "SimpleWebAPI.Domain/1.0.0": {
+      "type": "project",
+      "path": "../SimpleWebAPI.Domain/SimpleWebAPI.Domain.csproj",
+      "msbuildProject": "../SimpleWebAPI.Domain/SimpleWebAPI.Domain.csproj"
+    },
+    "SimpleWebAPI.Infrastructure.IoC/1.0.0": {
+      "type": "project",
+      "path": "../SimpleWebAPI.Infrastructure.IoC/SimpleWebAPI.Infrastructure.IoC.csproj",
+      "msbuildProject": "../SimpleWebAPI.Infrastructure.IoC/SimpleWebAPI.Infrastructure.IoC.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4241,6 +4275,8 @@
       "SimpleInjector >= 5.2.0",
       "SimpleInjector.Integration.AspNetCore.Mvc.Core >= 5.2.0",
       "SimpleInjector.Integration.ServiceCollection >= 5.2.0",
+      "SimpleWebAPI.Domain >= 1.0.0",
+      "SimpleWebAPI.Infrastructure.IoC >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -4251,9 +4287,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\SimpleWebAP\\SimpleWebAPI\\src\\SimpleWebAPI\\SimpleWebAPI.csproj",
-      "projectName": "SimpleWebAPI",
-      "projectPath": "C:\\Projects\\SimpleWebAP\\SimpleWebAPI\\src\\SimpleWebAPI\\SimpleWebAPI.csproj",
+      "projectUniqueName": "C:\\Projects\\SimpleWebAP\\SimpleWebAPI\\src\\SimpleWebAPI\\SimpleWebAPI.Api.csproj",
+      "projectName": "SimpleWebAPI.Api",
+      "projectPath": "C:\\Projects\\SimpleWebAP\\SimpleWebAPI\\src\\SimpleWebAPI\\SimpleWebAPI.Api.csproj",
       "packagesPath": "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\",
       "outputPath": "C:\\Projects\\SimpleWebAP\\SimpleWebAPI\\src\\SimpleWebAPI\\obj\\",
       "projectStyle": "PackageReference",
@@ -4275,7 +4311,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Projects\\SimpleWebAP\\SimpleWebAPI\\src\\SimpleWebAPI.Domain\\SimpleWebAPI.Domain.csproj": {
+              "projectPath": "C:\\Projects\\SimpleWebAP\\SimpleWebAPI\\src\\SimpleWebAPI.Domain\\SimpleWebAPI.Domain.csproj"
+            },
+            "C:\\Projects\\SimpleWebAP\\SimpleWebAPI\\src\\SimpleWebAPI.Infrastructure.IoC\\SimpleWebAPI.Infrastructure.IoC.csproj": {
+              "projectPath": "C:\\Projects\\SimpleWebAP\\SimpleWebAPI\\src\\SimpleWebAPI.Infrastructure.IoC\\SimpleWebAPI.Infrastructure.IoC.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

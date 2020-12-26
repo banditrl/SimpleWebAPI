@@ -1,0 +1,9 @@
+C:\Projects\SimpleWebAP\SimpleWebAPI\src\SimpleWebAPI.Domain\obj\Debug\netcoreapp3.1\SimpleWebAPI.Domain.csprojAssemblyReference.cache
+C:\Projects\SimpleWebAP\SimpleWebAPI\src\SimpleWebAPI.Domain\obj\Debug\netcoreapp3.1\SimpleWebAPI.Domain.AssemblyInfoInputs.cache
+C:\Projects\SimpleWebAP\SimpleWebAPI\src\SimpleWebAPI.Domain\obj\Debug\netcoreapp3.1\SimpleWebAPI.Domain.AssemblyInfo.cs
+C:\Projects\SimpleWebAP\SimpleWebAPI\src\SimpleWebAPI.Domain\obj\Debug\netcoreapp3.1\SimpleWebAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\SimpleWebAP\SimpleWebAPI\src\SimpleWebAPI.Domain\bin\Debug\netcoreapp3.1\SimpleWebAPI.Domain.deps.json
+C:\Projects\SimpleWebAP\SimpleWebAPI\src\SimpleWebAPI.Domain\bin\Debug\netcoreapp3.1\SimpleWebAPI.Domain.dll
+C:\Projects\SimpleWebAP\SimpleWebAPI\src\SimpleWebAPI.Domain\bin\Debug\netcoreapp3.1\SimpleWebAPI.Domain.pdb
+C:\Projects\SimpleWebAP\SimpleWebAPI\src\SimpleWebAPI.Domain\obj\Debug\netcoreapp3.1\SimpleWebAPI.Domain.dll
+C:\Projects\SimpleWebAP\SimpleWebAPI\src\SimpleWebAPI.Domain\obj\Debug\netcoreapp3.1\SimpleWebAPI.Domain.pdb

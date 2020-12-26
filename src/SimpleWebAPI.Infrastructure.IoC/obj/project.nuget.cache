@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "D9DQ2U+ADVP5b8bnUqe7stNyEe/BijeeC4ETZHWtUiYLwrQL8Q4R5EtVmZUCRd7v1zxU1hMdDsOOyprtWsCgog==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\SimpleWebAP\\SimpleWebAPI\\src\\SimpleWebAPI.Infrastructure.IoC\\SimpleWebAPI.Infrastructure.IoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\simpleinjector\\5.2.0\\simpleinjector.5.2.0.nupkg.sha512",
+    "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
+    "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
