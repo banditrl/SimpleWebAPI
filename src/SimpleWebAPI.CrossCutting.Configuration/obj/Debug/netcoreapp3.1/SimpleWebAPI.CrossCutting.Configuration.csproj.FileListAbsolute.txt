@@ -2,3 +2,12 @@ C:\Projects\SimpleWebAP\SimpleWebAPI\src\SimpleWebAPI.CrossCutting.Configuration
 C:\Projects\SimpleWebAP\SimpleWebAPI\src\SimpleWebAPI.CrossCutting.Configuration\obj\Debug\netcoreapp3.1\SimpleWebAPI.CrossCutting.Configuration.AssemblyInfoInputs.cache
 C:\Projects\SimpleWebAP\SimpleWebAPI\src\SimpleWebAPI.CrossCutting.Configuration\obj\Debug\netcoreapp3.1\SimpleWebAPI.CrossCutting.Configuration.AssemblyInfo.cs
 C:\Projects\SimpleWebAP\SimpleWebAPI\src\SimpleWebAPI.CrossCutting.Configuration\obj\Debug\netcoreapp3.1\SimpleWebAPI.CrossCutting.Configuration.csproj.CoreCompileInputs.cache
+C:\Projects\SimpleWebAPI\SimpleWebAPI\src\SimpleWebAPI.CrossCutting.Configuration\bin\Debug\netcoreapp3.1\SimpleWebAPI.CrossCutting.Configuration.deps.json
+C:\Projects\SimpleWebAPI\SimpleWebAPI\src\SimpleWebAPI.CrossCutting.Configuration\bin\Debug\netcoreapp3.1\SimpleWebAPI.CrossCutting.Configuration.dll
+C:\Projects\SimpleWebAPI\SimpleWebAPI\src\SimpleWebAPI.CrossCutting.Configuration\bin\Debug\netcoreapp3.1\SimpleWebAPI.CrossCutting.Configuration.pdb
+C:\Projects\SimpleWebAPI\SimpleWebAPI\src\SimpleWebAPI.CrossCutting.Configuration\obj\Debug\netcoreapp3.1\SimpleWebAPI.CrossCutting.Configuration.csprojAssemblyReference.cache
+C:\Projects\SimpleWebAPI\SimpleWebAPI\src\SimpleWebAPI.CrossCutting.Configuration\obj\Debug\netcoreapp3.1\SimpleWebAPI.CrossCutting.Configuration.AssemblyInfoInputs.cache
+C:\Projects\SimpleWebAPI\SimpleWebAPI\src\SimpleWebAPI.CrossCutting.Configuration\obj\Debug\netcoreapp3.1\SimpleWebAPI.CrossCutting.Configuration.AssemblyInfo.cs
+C:\Projects\SimpleWebAPI\SimpleWebAPI\src\SimpleWebAPI.CrossCutting.Configuration\obj\Debug\netcoreapp3.1\SimpleWebAPI.CrossCutting.Configuration.csproj.CoreCompileInputs.cache
+C:\Projects\SimpleWebAPI\SimpleWebAPI\src\SimpleWebAPI.CrossCutting.Configuration\obj\Debug\netcoreapp3.1\SimpleWebAPI.CrossCutting.Configuration.dll
+C:\Projects\SimpleWebAPI\SimpleWebAPI\src\SimpleWebAPI.CrossCutting.Configuration\obj\Debug\netcoreapp3.1\SimpleWebAPI.CrossCutting.Configuration.pdb

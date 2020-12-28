@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EXfjL4wAhE9ioDLIe0NsR4AstHFXVgSdJwWrNzY+GEVvmFXexMsbVdgnNrDcztpy4cgXy0OyRlAOfji1qOrSRg==",
+  "dgSpecHash": "jJ6/D3KFuU2IObrJFZ2rk/GKidD0iCb0XZrnAeOF7kso3zspThKX58m4f5Jk9e7LZrwPMcLGjWFDxpjyKCSu4w==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\SimpleWebAP\\SimpleWebAPI\\src\\SimpleWebAPI.Infrastructure.Data\\SimpleWebAPI.Infrastructure.Data.csproj",
+  "projectFilePath": "C:\\Projects\\SimpleWebAPI\\SimpleWebAPI\\src\\SimpleWebAPI.Infrastructure.Data\\SimpleWebAPI.Infrastructure.Data.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "5PHp2B99Ty43TlMRt9Xx8VfHwTgADoHONChB889SQJLgM8VsFPsPiart6MFtZ60Vgv6LFoGDyUJgxB4FHdDtxw==",
+  "dgSpecHash": "KFtrfIgOevRdWHhjGIox2X7XS2uUD7SsSfXRyj5gTMcKokxHHA6Ga71sSpmGgeUb04NZLb2opZjX5WHtmw737Q==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\SimpleWebAP\\SimpleWebAPI\\src\\SimpleWebAPI.Domain\\SimpleWebAPI.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Projects\\SimpleWebAPI\\SimpleWebAPI\\src\\SimpleWebAPI.Domain\\SimpleWebAPI.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.8.0\\microsoft.identitymodel.jsonwebtokens.6.8.0.nupkg.sha512",
+    "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\microsoft.identitymodel.logging\\6.8.0\\microsoft.identitymodel.logging.6.8.0.nupkg.sha512",
+    "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
+    "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.8.0\\system.identitymodel.tokens.jwt.6.8.0.nupkg.sha512",
+    "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

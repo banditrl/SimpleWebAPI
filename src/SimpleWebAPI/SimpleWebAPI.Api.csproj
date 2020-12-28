@@ -18,10 +18,16 @@
   <ItemGroup>
 	<ProjectReference Include="..\SimpleWebAPI.Domain\SimpleWebAPI.Domain.csproj" />
 	<ProjectReference Include="..\SimpleWebAPI.Infrastructure.IoC\SimpleWebAPI.Infrastructure.IoC.csproj" />
+	<ProjectReference Include="..\SimpleWebAPI.CrossCutting.Configuration\SimpleWebAPI.CrossCutting.Configuration.csproj" />
   </ItemGroup>
 
   <ItemGroup>
     <None Update="..\.dockerignore" Link="Presentation\.dockerignore" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Infrastructure\Middlewares\" />
+    <Folder Include="Infrastructure\Models\" />
   </ItemGroup>
 
 

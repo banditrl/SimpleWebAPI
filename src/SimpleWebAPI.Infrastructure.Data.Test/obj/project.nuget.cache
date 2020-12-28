@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G3mcQBtpHAEnUPtIdvhY7XjG+ufPXjsCVcPKkY9QJPW28/1Zn2/4JsFH2hDiXiTd1jk3InAMzDFaUWXuwFUbLg==",
+  "dgSpecHash": "gsxaLGpPVbwYrgFrgC9eC4fTzmMHTlb2vdnG+0mHS4Mg25l5EPrGtkzqW8Aq4lgJDiWxvLhzuXCoMMtpwbQEnw==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\SimpleWebAP\\SimpleWebAPI\\src\\SimpleWebAPI.Infrastructure.Data.Test\\SimpleWebAPI.Infrastructure.Data.Test.csproj",
+  "projectFilePath": "C:\\Projects\\SimpleWebAPI\\SimpleWebAPI\\src\\SimpleWebAPI.Infrastructure.Data.Test\\SimpleWebAPI.Infrastructure.Data.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",

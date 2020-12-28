@@ -5,6 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using SimpleInjector;
 using SimpleWebAPI.Infrastructure.IoC;
+using SimpleWebAPI.CrossCutting.Configuration;
 
 namespace SimpleWebAPI
 {
@@ -19,8 +20,8 @@ namespace SimpleWebAPI
 			_container = new Container();
 		}
 
-		public Container _container;
-		public IConfiguration _configuration { get; }
+		public Container _container { get; }
+		public IConfiguration _configuration { get; set; }
 
 		// This method gets called by the runtime. Use this method to add services to the container.
 		public void ConfigureServices(IServiceCollection services)
@@ -30,6 +31,8 @@ namespace SimpleWebAPI
 			services.AddSwaggerGen();
 
 			services.AddMvc();
+
+			services.Configure<AppSettings>(_configuration.GetSection("AppSettings"));
 
 			services.AddSimpleInjector(_container, opt =>
 			{
@@ -42,6 +45,12 @@ namespace SimpleWebAPI
 		// This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
 		public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
 		{
+			//var builder = new ConfigurationBuilder()
+			//.SetBasePath(env.ContentRootPath)
+			//.AddJsonFile("appsettings.json", optional: true, reloadOnChange: true);
+
+			//_configuration = builder.Build();
+
 			app.UseSwagger();
 
 			app.UseSwaggerUI(c =>

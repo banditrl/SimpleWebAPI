@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qMEHlPbmK69bcNWOuoScP3uQs7I34kXyumy1uO0KxqaULKkLNV7lPAPrvlhpZVfq8A1XQza5UT0jMTOC1ZLFDQ==",
+  "dgSpecHash": "k3eNAwC4zhLIPbhprFPDS1ONGMoaT2Pv88844hMoxbXK10Q8Z1jAPndD3+jT/yDnI8XXEMt858GeQkLVtTlKhg==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\SimpleWebAP\\SimpleWebAPI\\src\\SimpleWebAPI.CrossCutting.Configuration\\SimpleWebAPI.CrossCutting.Configuration.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Projects\\SimpleWebAPI\\SimpleWebAPI\\src\\SimpleWebAPI.CrossCutting.Configuration\\SimpleWebAPI.CrossCutting.Configuration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

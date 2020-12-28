@@ -11,6 +11,8 @@ namespace SimpleWebAPI.Infrastructure.IoC
         public static void Register(Container container)
         {
             container.Register<IWeatherForecastService, WeatherForecastService>(Lifestyle.Singleton);
+
+            container.Register<IUserService, UserService>(Lifestyle.Singleton);
         }
     }
 }

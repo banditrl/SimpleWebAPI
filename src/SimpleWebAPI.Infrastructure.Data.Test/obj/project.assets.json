@@ -5723,11 +5723,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\SimpleWebAP\\SimpleWebAPI\\src\\SimpleWebAPI.Infrastructure.Data.Test\\SimpleWebAPI.Infrastructure.Data.Test.csproj",
+      "projectUniqueName": "C:\\Projects\\SimpleWebAPI\\SimpleWebAPI\\src\\SimpleWebAPI.Infrastructure.Data.Test\\SimpleWebAPI.Infrastructure.Data.Test.csproj",
       "projectName": "SimpleWebAPI.Infrastructure.Data.Test",
-      "projectPath": "C:\\Projects\\SimpleWebAP\\SimpleWebAPI\\src\\SimpleWebAPI.Infrastructure.Data.Test\\SimpleWebAPI.Infrastructure.Data.Test.csproj",
+      "projectPath": "C:\\Projects\\SimpleWebAPI\\SimpleWebAPI\\src\\SimpleWebAPI.Infrastructure.Data.Test\\SimpleWebAPI.Infrastructure.Data.Test.csproj",
       "packagesPath": "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\SimpleWebAP\\SimpleWebAPI\\src\\SimpleWebAPI.Infrastructure.Data.Test\\obj\\",
+      "outputPath": "C:\\Projects\\SimpleWebAPI\\SimpleWebAPI\\src\\SimpleWebAPI.Infrastructure.Data.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
