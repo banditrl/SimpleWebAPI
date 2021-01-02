@@ -1,23 +1,18 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 using SimpleWebAPI.Domain.Interfaces;
 
-namespace SimpleWebAPI.Controllers
+namespace SimpleWebAPI.Api.Controllers
 {
 	[Authorize]
 	[ApiController]
 	[Route("api/WeatherForecast")]
 	public class WeatherForecastController : ControllerBase
 	{
-		private readonly ILogger<WeatherForecastController> _logger;
-
 		private readonly IWeatherForecastService _weatherForecast;
 
-		public WeatherForecastController(ILogger<WeatherForecastController> logger, IWeatherForecastService weatherForecast)
+		public WeatherForecastController(IWeatherForecastService weatherForecast)
 		{
-			_logger = logger;
-
 			_weatherForecast = weatherForecast;
 		}
 

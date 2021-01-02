@@ -6,13 +6,19 @@ using Microsoft.Extensions.Hosting;
 using SimpleInjector;
 using SimpleWebAPI.Infrastructure.IoC;
 using SimpleWebAPI.CrossCutting.Configuration;
+using System.Globalization;
+using SimpleWebAPI.Api.Infrastructure.Configuration;
+using SimpleWebAPI.Api.Infrastructure.Middlewares;
 
-namespace SimpleWebAPI
+namespace SimpleWebAPI.Api
 {
 	using Container = Container;
 
 	public class Startup
 	{
+		public Container _container { get; }
+		public IConfiguration _configuration { get; set; }
+
 		public Startup(IConfiguration configuration)
 		{
 			_configuration = configuration;
@@ -20,19 +26,27 @@ namespace SimpleWebAPI
 			_container = new Container();
 		}
 
-		public Container _container { get; }
-		public IConfiguration _configuration { get; set; }
-
 		// This method gets called by the runtime. Use this method to add services to the container.
 		public void ConfigureServices(IServiceCollection services)
 		{
-			services.AddControllers();
-
-			services.AddSwaggerGen();
+			services.AddCors(options =>
+			{
+				options.AddPolicy("AllowAllHeaders", builder =>
+				{
+					builder
+						.AllowAnyHeader()
+						.AllowAnyMethod()
+						.AllowAnyOrigin();
+				});
+			});
 
 			services.AddMvc();
 
-			services.Configure<AppSettings>(_configuration.GetSection("AppSettings"));
+			services.AddControllers();
+
+			services.Configure<AppSettings>(_configuration);
+
+			services.AddSwaggerGenOptions();
 
 			services.AddSimpleInjector(_container, opt =>
 			{
@@ -40,27 +54,19 @@ namespace SimpleWebAPI
 			});
 
 			Bootstrapper.Register(_container);
+			CultureInfo.CurrentCulture = new CultureInfo("pt-BR");
 		}
 
 		// This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
 		public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
 		{
-			//var builder = new ConfigurationBuilder()
-			//.SetBasePath(env.ContentRootPath)
-			//.AddJsonFile("appsettings.json", optional: true, reloadOnChange: true);
+			app.UseDeveloperExceptionPage();
 
-			//_configuration = builder.Build();
+			app.UseCors("AllowAllHeaders");
 
-			app.UseSwagger();
+			app.UseAuthenticationMiddleware();
 
-			app.UseSwaggerUI(c =>
-			{
-				c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
-
-				c.RoutePrefix = string.Empty;
-			});
-
-			app.UseSimpleInjector(_container);
+			app.UseSwaggerConfiguration();
 
 			if (env.IsDevelopment())
 			{
@@ -77,6 +83,8 @@ namespace SimpleWebAPI
 			{
 				endpoints.MapControllers();
 			});
+
+			app.UseSimpleInjector(_container);
 
 			_container.Verify();
 		}

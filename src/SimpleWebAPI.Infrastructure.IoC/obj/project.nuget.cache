@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "16XLk27Yj/4y9RrLP5VqXliPxD/BIQYHivL/aBHZ+OEOgI0HUagBCfq7mofzFe0mYteFhCV1CAGvjenzkZxysw==",
+  "dgSpecHash": "9xK5WnZz58me60xFJeoBgz0PxnBWUmIsf2xy8Xz8NP3Jfg5W38KMn+YIapFpaWHJq0FFPJahKFC53YSnBWoL7A==",
   "success": true,
   "projectFilePath": "C:\\Projects\\SimpleWebAPI\\SimpleWebAPI\\src\\SimpleWebAPI.Infrastructure.IoC\\SimpleWebAPI.Infrastructure.IoC.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
     "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
@@ -17,6 +18,7 @@
     "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\simpleinjector\\5.2.0\\simpleinjector.5.2.0.nupkg.sha512",
     "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
     "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.8.0\\system.identitymodel.tokens.jwt.6.8.0.nupkg.sha512",
+    "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512",
     "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],

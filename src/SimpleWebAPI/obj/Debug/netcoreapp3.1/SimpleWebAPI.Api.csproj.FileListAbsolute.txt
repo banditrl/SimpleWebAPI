@@ -81,3 +81,4 @@ C:\Projects\SimpleWebAPI\SimpleWebAPI\src\SimpleWebAPI\obj\Debug\netcoreapp3.1\s
 C:\Projects\SimpleWebAPI\SimpleWebAPI\src\SimpleWebAPI\obj\Debug\netcoreapp3.1\SimpleWebAPI.Api.RazorTargetAssemblyInfo.cache
 C:\Projects\SimpleWebAPI\SimpleWebAPI\src\SimpleWebAPI\obj\Debug\netcoreapp3.1\SimpleWebAPI.Api.csproj.CopyComplete
 C:\Projects\SimpleWebAPI\SimpleWebAPI\src\SimpleWebAPI\obj\Debug\netcoreapp3.1\SimpleWebAPI.Api.genruntimeconfig.cache
+C:\Projects\SimpleWebAPI\SimpleWebAPI\src\SimpleWebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll

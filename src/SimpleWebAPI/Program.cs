@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 
-namespace SimpleWebAPI
+namespace SimpleWebAPI.Api
 {
 	public class Program
 	{
