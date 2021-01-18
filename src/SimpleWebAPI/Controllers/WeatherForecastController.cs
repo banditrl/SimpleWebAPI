@@ -1,10 +1,8 @@
-﻿using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using SimpleWebAPI.Domain.Interfaces;
 
 namespace SimpleWebAPI.Api.Controllers
 {
-	[Authorize]
 	[ApiController]
 	[Route("api/WeatherForecast")]
 	public class WeatherForecastController : ControllerBase

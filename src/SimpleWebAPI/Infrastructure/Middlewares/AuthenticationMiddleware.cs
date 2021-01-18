@@ -24,6 +24,10 @@ namespace SimpleWebAPI.Api.Infrastructure.Middlewares
 
         public async Task Invoke(HttpContext context)
         {
+            //debug only
+            await _next.Invoke(context);
+            return;
+
             var Requestvalue = context.Request.Path.Value.ToLower();
             if (Requestvalue.Equals("/index.html")
                 || Requestvalue.Equals("/swagger/v1/swagger.json")
