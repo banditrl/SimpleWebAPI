@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\SimpleWebAPI\\src\\SimpleWebAPI.Domain\\SimpleWebAPI.Domain.csproj": {}
+    "C:\\Projects\\SimpleWebAPI\\SimpleWebAPI\\src\\SimpleWebAPI.Domain\\SimpleWebAPI.Domain.csproj": {}
   },
   "projects": {
-    "D:\\projects\\SimpleWebAPI\\src\\SimpleWebAPI.CrossCutting.Configuration\\SimpleWebAPI.CrossCutting.Configuration.csproj": {
+    "C:\\Projects\\SimpleWebAPI\\SimpleWebAPI\\src\\SimpleWebAPI.CrossCutting.Configuration\\SimpleWebAPI.CrossCutting.Configuration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\SimpleWebAPI\\src\\SimpleWebAPI.CrossCutting.Configuration\\SimpleWebAPI.CrossCutting.Configuration.csproj",
+        "projectUniqueName": "C:\\Projects\\SimpleWebAPI\\SimpleWebAPI\\src\\SimpleWebAPI.CrossCutting.Configuration\\SimpleWebAPI.CrossCutting.Configuration.csproj",
         "projectName": "SimpleWebAPI.CrossCutting.Configuration",
-        "projectPath": "D:\\projects\\SimpleWebAPI\\src\\SimpleWebAPI.CrossCutting.Configuration\\SimpleWebAPI.CrossCutting.Configuration.csproj",
-        "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\SimpleWebAPI\\src\\SimpleWebAPI.CrossCutting.Configuration\\obj\\",
+        "projectPath": "C:\\Projects\\SimpleWebAPI\\SimpleWebAPI\\src\\SimpleWebAPI.CrossCutting.Configuration\\SimpleWebAPI.CrossCutting.Configuration.csproj",
+        "packagesPath": "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\SimpleWebAPI\\SimpleWebAPI\\src\\SimpleWebAPI.CrossCutting.Configuration\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alessandro.rodrigues\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +25,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://azuldevops.pkgs.visualstudio.com/_packaging/azulframework/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -60,21 +64,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\projects\\SimpleWebAPI\\src\\SimpleWebAPI.Domain\\SimpleWebAPI.Domain.csproj": {
+    "C:\\Projects\\SimpleWebAPI\\SimpleWebAPI\\src\\SimpleWebAPI.Domain\\SimpleWebAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\SimpleWebAPI\\src\\SimpleWebAPI.Domain\\SimpleWebAPI.Domain.csproj",
+        "projectUniqueName": "C:\\Projects\\SimpleWebAPI\\SimpleWebAPI\\src\\SimpleWebAPI.Domain\\SimpleWebAPI.Domain.csproj",
         "projectName": "SimpleWebAPI.Domain",
-        "projectPath": "D:\\projects\\SimpleWebAPI\\src\\SimpleWebAPI.Domain\\SimpleWebAPI.Domain.csproj",
-        "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\SimpleWebAPI\\src\\SimpleWebAPI.Domain\\obj\\",
+        "projectPath": "C:\\Projects\\SimpleWebAPI\\SimpleWebAPI\\src\\SimpleWebAPI.Domain\\SimpleWebAPI.Domain.csproj",
+        "packagesPath": "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\SimpleWebAPI\\SimpleWebAPI\\src\\SimpleWebAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alessandro.rodrigues\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,17 +89,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://azuldevops.pkgs.visualstudio.com/_packaging/azulframework/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\projects\\SimpleWebAPI\\src\\SimpleWebAPI.CrossCutting.Configuration\\SimpleWebAPI.CrossCutting.Configuration.csproj": {
-                "projectPath": "D:\\projects\\SimpleWebAPI\\src\\SimpleWebAPI.CrossCutting.Configuration\\SimpleWebAPI.CrossCutting.Configuration.csproj"
+              "C:\\Projects\\SimpleWebAPI\\SimpleWebAPI\\src\\SimpleWebAPI.CrossCutting.Configuration\\SimpleWebAPI.CrossCutting.Configuration.csproj": {
+                "projectPath": "C:\\Projects\\SimpleWebAPI\\SimpleWebAPI\\src\\SimpleWebAPI.CrossCutting.Configuration\\SimpleWebAPI.CrossCutting.Configuration.csproj"
               },
-              "D:\\projects\\SimpleWebAPI\\src\\SimpleWebAPI.Infrastructure.Data\\SimpleWebAPI.Infrastructure.Data.csproj": {
-                "projectPath": "D:\\projects\\SimpleWebAPI\\src\\SimpleWebAPI.Infrastructure.Data\\SimpleWebAPI.Infrastructure.Data.csproj"
+              "C:\\Projects\\SimpleWebAPI\\SimpleWebAPI\\src\\SimpleWebAPI.Infrastructure.Data\\SimpleWebAPI.Infrastructure.Data.csproj": {
+                "projectPath": "C:\\Projects\\SimpleWebAPI\\SimpleWebAPI\\src\\SimpleWebAPI.Infrastructure.Data\\SimpleWebAPI.Infrastructure.Data.csproj"
               }
             }
           }
@@ -135,21 +143,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\projects\\SimpleWebAPI\\src\\SimpleWebAPI.Infrastructure.Data\\SimpleWebAPI.Infrastructure.Data.csproj": {
+    "C:\\Projects\\SimpleWebAPI\\SimpleWebAPI\\src\\SimpleWebAPI.Infrastructure.Data\\SimpleWebAPI.Infrastructure.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\SimpleWebAPI\\src\\SimpleWebAPI.Infrastructure.Data\\SimpleWebAPI.Infrastructure.Data.csproj",
+        "projectUniqueName": "C:\\Projects\\SimpleWebAPI\\SimpleWebAPI\\src\\SimpleWebAPI.Infrastructure.Data\\SimpleWebAPI.Infrastructure.Data.csproj",
         "projectName": "SimpleWebAPI.Infrastructure.Data",
-        "projectPath": "D:\\projects\\SimpleWebAPI\\src\\SimpleWebAPI.Infrastructure.Data\\SimpleWebAPI.Infrastructure.Data.csproj",
-        "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\SimpleWebAPI\\src\\SimpleWebAPI.Infrastructure.Data\\obj\\",
+        "projectPath": "C:\\Projects\\SimpleWebAPI\\SimpleWebAPI\\src\\SimpleWebAPI.Infrastructure.Data\\SimpleWebAPI.Infrastructure.Data.csproj",
+        "packagesPath": "C:\\Users\\alessandro.rodrigues\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\SimpleWebAPI\\SimpleWebAPI\\src\\SimpleWebAPI.Infrastructure.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alessandro.rodrigues\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -157,7 +168,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://azuldevops.pkgs.visualstudio.com/_packaging/azulframework/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -195,7 +207,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
