@@ -8,5 +8,6 @@ namespace SimpleWebAPI.Domain.Interfaces
 		public IEnumerable<WeatherForecastModel> GetWeekPrevision();
 
 		public IEnumerable<WeatherForecastModel> GetMonthPrevision();
+
 	}
 }

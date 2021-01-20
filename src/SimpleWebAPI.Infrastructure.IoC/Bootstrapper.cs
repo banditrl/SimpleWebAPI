@@ -3,6 +3,8 @@ using SimpleInjector;
 using SimpleWebAPI.Domain.Interfaces;
 using SimpleWebAPI.Domain.Profiles.Request;
 using SimpleWebAPI.Domain.Services;
+using SimpleWebAPI.Infrastructure.Data.Interfaces;
+using SimpleWebAPI.Infrastructure.Repository;
 
 namespace SimpleWebAPI.Infrastructure.IoC
 {
@@ -26,6 +28,8 @@ namespace SimpleWebAPI.Infrastructure.IoC
             container.Register<IUserService, UserService>(Lifestyle.Singleton);
 
             container.Register<IWeatherForecastService, WeatherForecastService>(Lifestyle.Singleton);
+
+            container.Register<IWeatherForecastRepository, WeatherForecastRepository>(Lifestyle.Singleton);
         }
     }
 }

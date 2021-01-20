@@ -19,3 +19,17 @@ C:\Projects\SimpleWebAPI\SimpleWebAPI\src\SimpleWebAPI.Domain\bin\Debug\netcorea
 C:\Projects\SimpleWebAPI\SimpleWebAPI\src\SimpleWebAPI.Domain\bin\Debug\netcoreapp3.1\SimpleWebAPI.CrossCutting.Configuration.dll
 C:\Projects\SimpleWebAPI\SimpleWebAPI\src\SimpleWebAPI.Domain\bin\Debug\netcoreapp3.1\SimpleWebAPI.CrossCutting.Configuration.pdb
 C:\Projects\SimpleWebAPI\SimpleWebAPI\src\SimpleWebAPI.Domain\obj\Debug\netcoreapp3.1\SimpleWebAPI.Domain.csproj.CopyComplete
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.Domain\bin\Debug\netcoreapp3.1\SimpleWebAPI.Domain.deps.json
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.Domain\bin\Debug\netcoreapp3.1\SimpleWebAPI.Domain.dll
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.Domain\bin\Debug\netcoreapp3.1\SimpleWebAPI.Domain.pdb
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.Domain\bin\Debug\netcoreapp3.1\SimpleWebAPI.CrossCutting.Configuration.dll
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.Domain\bin\Debug\netcoreapp3.1\SimpleWebAPI.CrossCutting.Configuration.pdb
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.Domain\obj\Debug\netcoreapp3.1\SimpleWebAPI.Domain.csprojAssemblyReference.cache
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.Domain\obj\Debug\netcoreapp3.1\SimpleWebAPI.Domain.AssemblyInfoInputs.cache
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.Domain\obj\Debug\netcoreapp3.1\SimpleWebAPI.Domain.AssemblyInfo.cs
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.Domain\obj\Debug\netcoreapp3.1\SimpleWebAPI.Domain.csproj.CoreCompileInputs.cache
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.Domain\obj\Debug\netcoreapp3.1\SimpleWebAPI.Domain.csproj.CopyComplete
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.Domain\obj\Debug\netcoreapp3.1\SimpleWebAPI.Domain.dll
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.Domain\obj\Debug\netcoreapp3.1\SimpleWebAPI.Domain.pdb
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.Domain\bin\Debug\netcoreapp3.1\SimpleWebAPI.Infrastructure.Data.dll
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.Domain\bin\Debug\netcoreapp3.1\SimpleWebAPI.Infrastructure.Data.pdb

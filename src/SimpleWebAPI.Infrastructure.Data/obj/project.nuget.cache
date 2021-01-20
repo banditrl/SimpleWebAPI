@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "jJ6/D3KFuU2IObrJFZ2rk/GKidD0iCb0XZrnAeOF7kso3zspThKX58m4f5Jk9e7LZrwPMcLGjWFDxpjyKCSu4w==",
+  "dgSpecHash": "sZGYPhWj+w5f6aVuzmhP0xe3WCzkBwWRRULh2wInHoiI2mv+VPcjdRI3z3aYkZPPjuZvIy0pJyV2w/GZ0gQkhg==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\SimpleWebAPI\\SimpleWebAPI\\src\\SimpleWebAPI.Infrastructure.Data\\SimpleWebAPI.Infrastructure.Data.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\projects\\SimpleWebAPI\\src\\SimpleWebAPI.Infrastructure.Data\\SimpleWebAPI.Infrastructure.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matheus\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Matheus\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Matheus\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\Matheus\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Matheus\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Matheus\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Matheus\\.nuget\\packages\\system.data.sqlclient\\4.8.2\\system.data.sqlclient.4.8.2.nupkg.sha512",
+    "C:\\Users\\Matheus\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Matheus\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

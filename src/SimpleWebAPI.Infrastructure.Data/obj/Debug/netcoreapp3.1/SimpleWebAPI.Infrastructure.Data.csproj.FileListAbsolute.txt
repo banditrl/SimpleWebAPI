@@ -11,3 +11,12 @@ C:\Projects\SimpleWebAPI\SimpleWebAPI\src\SimpleWebAPI.Infrastructure.Data\obj\D
 C:\Projects\SimpleWebAPI\SimpleWebAPI\src\SimpleWebAPI.Infrastructure.Data\obj\Debug\netcoreapp3.1\SimpleWebAPI.Infrastructure.Data.csproj.CoreCompileInputs.cache
 C:\Projects\SimpleWebAPI\SimpleWebAPI\src\SimpleWebAPI.Infrastructure.Data\obj\Debug\netcoreapp3.1\SimpleWebAPI.Infrastructure.Data.dll
 C:\Projects\SimpleWebAPI\SimpleWebAPI\src\SimpleWebAPI.Infrastructure.Data\obj\Debug\netcoreapp3.1\SimpleWebAPI.Infrastructure.Data.pdb
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.Infrastructure.Data\bin\Debug\netcoreapp3.1\SimpleWebAPI.Infrastructure.Data.deps.json
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.Infrastructure.Data\bin\Debug\netcoreapp3.1\SimpleWebAPI.Infrastructure.Data.dll
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.Infrastructure.Data\bin\Debug\netcoreapp3.1\SimpleWebAPI.Infrastructure.Data.pdb
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.Infrastructure.Data\obj\Debug\netcoreapp3.1\SimpleWebAPI.Infrastructure.Data.csprojAssemblyReference.cache
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.Infrastructure.Data\obj\Debug\netcoreapp3.1\SimpleWebAPI.Infrastructure.Data.AssemblyInfoInputs.cache
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.Infrastructure.Data\obj\Debug\netcoreapp3.1\SimpleWebAPI.Infrastructure.Data.AssemblyInfo.cs
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.Infrastructure.Data\obj\Debug\netcoreapp3.1\SimpleWebAPI.Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.Infrastructure.Data\obj\Debug\netcoreapp3.1\SimpleWebAPI.Infrastructure.Data.dll
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.Infrastructure.Data\obj\Debug\netcoreapp3.1\SimpleWebAPI.Infrastructure.Data.pdb

@@ -11,3 +11,12 @@ C:\Projects\SimpleWebAPI\SimpleWebAPI\src\SimpleWebAPI.CrossCutting.Configuratio
 C:\Projects\SimpleWebAPI\SimpleWebAPI\src\SimpleWebAPI.CrossCutting.Configuration\obj\Debug\netcoreapp3.1\SimpleWebAPI.CrossCutting.Configuration.csproj.CoreCompileInputs.cache
 C:\Projects\SimpleWebAPI\SimpleWebAPI\src\SimpleWebAPI.CrossCutting.Configuration\obj\Debug\netcoreapp3.1\SimpleWebAPI.CrossCutting.Configuration.dll
 C:\Projects\SimpleWebAPI\SimpleWebAPI\src\SimpleWebAPI.CrossCutting.Configuration\obj\Debug\netcoreapp3.1\SimpleWebAPI.CrossCutting.Configuration.pdb
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.CrossCutting.Configuration\bin\Debug\netcoreapp3.1\SimpleWebAPI.CrossCutting.Configuration.deps.json
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.CrossCutting.Configuration\bin\Debug\netcoreapp3.1\SimpleWebAPI.CrossCutting.Configuration.dll
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.CrossCutting.Configuration\bin\Debug\netcoreapp3.1\SimpleWebAPI.CrossCutting.Configuration.pdb
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.CrossCutting.Configuration\obj\Debug\netcoreapp3.1\SimpleWebAPI.CrossCutting.Configuration.csprojAssemblyReference.cache
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.CrossCutting.Configuration\obj\Debug\netcoreapp3.1\SimpleWebAPI.CrossCutting.Configuration.AssemblyInfoInputs.cache
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.CrossCutting.Configuration\obj\Debug\netcoreapp3.1\SimpleWebAPI.CrossCutting.Configuration.AssemblyInfo.cs
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.CrossCutting.Configuration\obj\Debug\netcoreapp3.1\SimpleWebAPI.CrossCutting.Configuration.csproj.CoreCompileInputs.cache
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.CrossCutting.Configuration\obj\Debug\netcoreapp3.1\SimpleWebAPI.CrossCutting.Configuration.dll
+D:\projects\SimpleWebAPI\src\SimpleWebAPI.CrossCutting.Configuration\obj\Debug\netcoreapp3.1\SimpleWebAPI.CrossCutting.Configuration.pdb

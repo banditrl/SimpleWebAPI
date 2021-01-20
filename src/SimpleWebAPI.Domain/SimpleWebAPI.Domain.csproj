@@ -13,6 +13,7 @@
 
   <ItemGroup>
   	<ProjectReference Include="..\SimpleWebAPI.CrossCutting.Configuration\SimpleWebAPI.CrossCutting.Configuration.csproj" />
+  	<ProjectReference Include="..\SimpleWebAPI.Infrastructure.Data\SimpleWebAPI.Infrastructure.Data.csproj" />
   </ItemGroup>
 
 </Project>

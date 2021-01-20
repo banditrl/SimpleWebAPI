@@ -1,5 +1,8 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
+using System;
+using System.Text;
+using System.Data.SqlClient;
 
 namespace SimpleWebAPI.Api
 {
